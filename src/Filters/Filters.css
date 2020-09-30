@@ -1,0 +1,12 @@
+form {
+    display: inline-flex;
+    margin-left: 2rem;
+}
+
+input {
+    margin: 0px 10px;
+}
+
+.filter_selector {
+    padding: .5rem;
+}

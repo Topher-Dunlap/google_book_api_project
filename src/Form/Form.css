@@ -1,0 +1,14 @@
+form {
+    display: inline-flex;
+    margin-left: 2rem;
+}
+
+input {
+    margin: 0px 10px;
+}
+
+.landing_form {
+    background-color: grey;
+    color: white;
+    padding: .5rem;
+}
